@@ -1,6 +1,7 @@
 # GeoIP2 Java API #
 
-[![Build Status](https://travis-ci.org/maxmind/GeoIP2-java.png?branch=master)](https://travis-ci.org/maxmind/GeoIP2-java)
+
+[![Build Status](https://api.shippable.com/projects/540e96023479c5ea8f9f231c/badge?branchName=master)](https://app.shippable.com/projects/540e96023479c5ea8f9f231c/builds/latest)
 
 ## Beta Note ##
 
