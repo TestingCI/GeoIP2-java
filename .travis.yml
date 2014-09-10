@@ -1,9 +1,9 @@
 language: java
-jdk
+jdk:
   #- openjdk6
   #- openjdk7
   #- oraclejdk7
   - oraclejdk8
 install: mvn install -DskipTests=true -Dgpg.skip=true
-after_failure: mvn cobertura:cobertura coveralls:cobertura
+after_failure : mvn cobertura:cobertura coveralls:cobertura
 
